@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/karneges.github.io/wtw/static/css/main.f01c11f0.chunk.css",
-    "main.js": "/karneges.github.io/wtw/static/js/main.41ed000b.chunk.js",
-    "main.js.map": "/karneges.github.io/wtw/static/js/main.41ed000b.chunk.js.map",
+    "main.js": "/karneges.github.io/wtw/static/js/main.52f58250.chunk.js",
+    "main.js.map": "/karneges.github.io/wtw/static/js/main.52f58250.chunk.js.map",
     "runtime-main.js": "/karneges.github.io/wtw/static/js/runtime-main.16701a5f.js",
     "runtime-main.js.map": "/karneges.github.io/wtw/static/js/runtime-main.16701a5f.js.map",
     "static/js/2.2d4bbf6d.chunk.js": "/karneges.github.io/wtw/static/js/2.2d4bbf6d.chunk.js",
     "static/js/2.2d4bbf6d.chunk.js.map": "/karneges.github.io/wtw/static/js/2.2d4bbf6d.chunk.js.map",
     "index.html": "/karneges.github.io/wtw/index.html",
-    "precache-manifest.7e08be0fd30758fecde72e527ae65942.js": "/karneges.github.io/wtw/precache-manifest.7e08be0fd30758fecde72e527ae65942.js",
+    "precache-manifest.27dd3b92ddee85c2c6c7d4a1004f5b5a.js": "/karneges.github.io/wtw/precache-manifest.27dd3b92ddee85c2c6c7d4a1004f5b5a.js",
     "service-worker.js": "/karneges.github.io/wtw/service-worker.js",
     "static/css/main.f01c11f0.chunk.css.map": "/karneges.github.io/wtw/static/css/main.f01c11f0.chunk.css.map",
     "static/js/2.2d4bbf6d.chunk.js.LICENSE": "/karneges.github.io/wtw/static/js/2.2d4bbf6d.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.16701a5f.js",
     "static/js/2.2d4bbf6d.chunk.js",
     "static/css/main.f01c11f0.chunk.css",
-    "static/js/main.41ed000b.chunk.js"
+    "static/js/main.52f58250.chunk.js"
   ]
 }
