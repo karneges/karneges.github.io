@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/word-learning/static/css/main.da2b995f.chunk.css",
+    "main.css": "/word-learning/static/css/main.abbac8c7.chunk.css",
     "main.js": "/word-learning/static/js/main.3541f853.chunk.js",
     "main.js.map": "/word-learning/static/js/main.3541f853.chunk.js.map",
     "runtime-main.js": "/word-learning/static/js/runtime-main.92d414df.js",
@@ -9,10 +9,10 @@
     "static/js/2.b3944ef4.chunk.js": "/word-learning/static/js/2.b3944ef4.chunk.js",
     "static/js/2.b3944ef4.chunk.js.map": "/word-learning/static/js/2.b3944ef4.chunk.js.map",
     "index.html": "/word-learning/index.html",
-    "precache-manifest.25edde63c7038a232c824a861be57304.js": "/word-learning/precache-manifest.25edde63c7038a232c824a861be57304.js",
+    "precache-manifest.304cb4c1991cdb21c218bde03c477bf9.js": "/word-learning/precache-manifest.304cb4c1991cdb21c218bde03c477bf9.js",
     "service-worker.js": "/word-learning/service-worker.js",
     "static/css/2.52e3527d.chunk.css.map": "/word-learning/static/css/2.52e3527d.chunk.css.map",
-    "static/css/main.da2b995f.chunk.css.map": "/word-learning/static/css/main.da2b995f.chunk.css.map",
+    "static/css/main.abbac8c7.chunk.css.map": "/word-learning/static/css/main.abbac8c7.chunk.css.map",
     "static/js/2.b3944ef4.chunk.js.LICENSE.txt": "/word-learning/static/js/2.b3944ef4.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/word-learning/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.92d414df.js",
     "static/css/2.52e3527d.chunk.css",
     "static/js/2.b3944ef4.chunk.js",
-    "static/css/main.da2b995f.chunk.css",
+    "static/css/main.abbac8c7.chunk.css",
     "static/js/main.3541f853.chunk.js"
   ]
 }

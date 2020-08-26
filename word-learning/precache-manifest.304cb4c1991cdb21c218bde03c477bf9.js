@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4ed2e631a5224e2218b725618454efb",
+    "revision": "675a32f67365c156d6e054aef9259f45",
     "url": "/word-learning/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/word-learning/static/css/2.52e3527d.chunk.css"
   },
   {
-    "revision": "156cfbb051d44d2e6aea",
-    "url": "/word-learning/static/css/main.da2b995f.chunk.css"
+    "revision": "a4f206ea886c7fc48c24",
+    "url": "/word-learning/static/css/main.abbac8c7.chunk.css"
   },
   {
     "revision": "5ebc89b219e36a73617f",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/word-learning/static/js/2.b3944ef4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "156cfbb051d44d2e6aea",
+    "revision": "a4f206ea886c7fc48c24",
     "url": "/word-learning/static/js/main.3541f853.chunk.js"
   },
   {
