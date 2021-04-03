@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/darqude/static/css/main.ad00f1bb.chunk.css",
-    "main.js": "/darqude/static/js/main.69a683e9.chunk.js",
-    "main.js.map": "/darqude/static/js/main.69a683e9.chunk.js.map",
+    "main.js": "/darqude/static/js/main.856307d3.chunk.js",
+    "main.js.map": "/darqude/static/js/main.856307d3.chunk.js.map",
     "runtime-main.js": "/darqude/static/js/runtime-main.f805e289.js",
     "runtime-main.js.map": "/darqude/static/js/runtime-main.f805e289.js.map",
     "static/js/2.055f0410.chunk.js": "/darqude/static/js/2.055f0410.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f805e289.js",
     "static/js/2.055f0410.chunk.js",
     "static/css/main.ad00f1bb.chunk.css",
-    "static/js/main.69a683e9.chunk.js"
+    "static/js/main.856307d3.chunk.js"
   ]
 }
